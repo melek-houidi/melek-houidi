@@ -1,16 +1,27 @@
-Hi there, I'm Melek Houidi 👋 Website Twitter Follow
+Hi there, I'm Melek Houidi 👋
+Website Twitter Follow
 
-I am a student and I did not complete my studies, but I understand in programming!! 
-🔭 I just launched my first course: Become A VS Code SuperHero!! 
-🌱 I’m currently learning everything 🤣 
-👯 I’m looking to collaborate with other content creators 
-🥅 2020 Goals: Contribute more to Open Source projects 
+I am a student and I did not complete my studies, but I understand in programming!!
+🔭 I just launched my first course: Become A VS Code SuperHero!!
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2020 Goals: Contribute more to Open Source projects
 ⚡ Fun fact: I can resist food 😅
 
-Connect with me: melekhouidi001@gmail.com
+Connect with me:
+melekhouidi001@gmail.com
 
-Languages and Tools: Visual Studio CodeHTML5CSS3SassJavaScriptGitHub
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptGitHub
 
-📕 Latest Blog Posts Microinteractions: Password Validation Animation Notion + YouTube - A Powerful Combination for Productivity Regular Expressions (RegEx) Crash Course Emmet Part 2 - Advanced Deno 1.0 Released! (Easy) REST API Example ➡️ more blog posts...
 
-⚡ Recent GitHub Activity ⚡ GitHub Stats
+📕 Latest Blog Posts
+Microinteractions: Password Validation Animation
+Notion + YouTube - A Powerful Combination for Productivity
+Regular Expressions (RegEx) Crash Course
+Emmet Part 2 - Advanced
+Deno 1.0 Released! (Easy) REST API Example
+➡️ more blog posts...
+
+⚡ Recent GitHub Activity
+⚡ GitHub Stats
