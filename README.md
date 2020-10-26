@@ -11,7 +11,7 @@ Connect with me:
 melekhouidi001@gmail.com
 
 Languages and Tools:
-Visual Studio CodeHTML5CSS3SassJavaScriptGitHub
+Visual Studio Code HTML5 CSS JavaScript GitHub
 
 
 📕 Latest Blog Posts
