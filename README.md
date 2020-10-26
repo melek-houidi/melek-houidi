@@ -29,4 +29,4 @@ Deno 1.0 Released! (Easy) REST API Example
 
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
