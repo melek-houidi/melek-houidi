@@ -1,5 +1,4 @@
 Hi there, I'm Melek Houidi 👋
-Website Twitter Follow
 
 I am a student and I did not complete my studies, but I understand in programming!!
 🔭 I just launched my first course: Become A VS Code SuperHero!!
