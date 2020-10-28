@@ -35,5 +35,5 @@ Deno 1.0 Released! (Easy) REST API Example
 
 
 
-
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="javascript" width="100%" />
 ![Alt Text](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
