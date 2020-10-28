@@ -9,6 +9,8 @@ I am a student and I did not complete my studies, but I understand in programmin
 
 Connect with me:
 melekhouidi001@gmail.com
+or
+<a href="https://www.facebook.com/malek.houidi.3" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="melek houidi" height="30" width="30" /></a>
 
 Languages and Tools:
 <p align="left">
