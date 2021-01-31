@@ -14,7 +14,7 @@ Connect with me:
 or
 <a href="https://www.linkedin.com/in/melek-houidi-b38420203/"><img align="center" alt="Melek Houidi  LinkedIN" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 or
-<a href="https://www.facebook.com/malek.houidi.3" target="blank" ><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="melek houidi" height="30" width="30" /></a> 
+<a href="https://www.facebook.com/malek.houidi.3" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="melek houidi" height="30" width="30" /></a> 
 
 
 Languages and Tools:
