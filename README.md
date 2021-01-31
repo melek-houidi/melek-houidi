@@ -32,7 +32,9 @@ Languages and Tools:
 <img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
-<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/></p>
+<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+</p>
 
 
 
