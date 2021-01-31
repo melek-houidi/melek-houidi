@@ -11,6 +11,9 @@ Connect with me:
 📫 How to reach memelekhouidi001@gmail.com
 or 
 <a href="https://www.facebook.com/malek.houidi.3" target="blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="melek houidi" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/melek-houidi-b38420203/">
+  <img align="left" alt="Melek Houidi  LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 Languages and Tools:
 <p align="left">
@@ -51,6 +54,7 @@ Deno 1.0 Released! (Easy) REST API Example
 ⚡ Recent GitHub Activity
 ⚡ GitHub Stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=melek-houidi&show_icons=true&theme=gotham" alt="Melek Houidi" />
 
 
 
