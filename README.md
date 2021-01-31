@@ -27,25 +27,15 @@ Languages and Tools:
 <img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
 <img width="40" height="40" alt="webpack" src="./icons/webpack-plain.svg"/>
 <img width="40" height="40" alt="babel" src="./icons/babel-original.svg"/>
-<img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>
 <img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
 <img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
-<img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/>
 <img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
-<img width="40" height="40" alt="postgresql" src="./icons/postgresql-plain.svg"/>
-<img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-<img width="40" height="40" alt="go" src="./icons/go-original.svg"/>
-<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
-<img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
-<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/></p>
+<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/></p>
 
 
 
-
-  
   And there is more in the future
 
 📕 Latest Blog Posts
