@@ -14,21 +14,33 @@ or
 
 Languages and Tools:
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
+<img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
+<img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
+<img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
+<img width="40" height="40" alt="CSS3" src="./icons/css3-plain.svg"/>
+<img width="40" height="40" alt="sass" src="./icons/sass-original.svg"/>
+<img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
+<img width="40" height="40" alt="redux" src="./icons/redux-original.svg"/>
+<img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
+<img width="40" height="40" alt="angular" src="./icons/angularjs-plain.svg"/>
+<img width="40" height="40" alt="vuejs" src="./icons/vuejs-plain.svg"/>
+<img width="40" height="40" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
+<img width="40" height="40" alt="webpack" src="./icons/webpack-plain.svg"/>
+<img width="40" height="40" alt="babel" src="./icons/babel-original.svg"/>
+<img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>
+<img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
+<img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
+<img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/>
+<img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
+<img width="40" height="40" alt="postgresql" src="./icons/postgresql-plain.svg"/>
+<img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
+<img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
+<img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+<img width="40" height="40" alt="go" src="./icons/go-original.svg"/>
+<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
+<img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
+<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/></p>
 
 
 
