@@ -55,6 +55,6 @@ Deno 1.0 Released! (Easy) REST API Example
 ⚡ GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=melek-houidi&show_icons=true&theme=gotham" alt="Melek Houidi" />
+<br>
 
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="javascript" width="40%" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="javascript" width="100%" />
