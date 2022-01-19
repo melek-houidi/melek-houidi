@@ -39,7 +39,7 @@ Languages and Tools:
 <img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
 <img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-<img width="40" height="40" alt="C#" src="./icons/csharp-plaine.svg"/>
+<img width="40" height="40" alt="C#" src="./icons/csharp-plain.svg"/>
   
   
 </p>
